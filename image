@@ -1,0 +1,13 @@
+<html >
+    <head>
+        <title>image</title>
+    </head>
+    <body>
+        <!-- for image used <img > tag 
+       src = source file
+       alt = alternative text -->
+      <image src ="C:\Users\Sunny\Desktop\html.png"  />
+       
+    </body>
+</html>
+
